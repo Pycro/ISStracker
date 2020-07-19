@@ -4,7 +4,7 @@ import json
 import urllib.request
 import time
 
-#my coords
+#my coords (note you need to put your coords here! currently set for the Wirral UK)
 lat = 53.3121
 lon = -2.9642
 
